@@ -1,0 +1,23 @@
+{
+  "name": "the-dispatcher",
+  "version": "1.0.0",
+  "description": "dispatcher singleton for multi-module flux apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flux",
+    "dispatcher"
+  ],
+  "author": "Tom MacWright",
+  "license": "ISC",
+  "dependencies": {
+    "flux": "^2.0.3",
+    "xtend": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mapbox/the-dispatcher.git"
+  }
+}
