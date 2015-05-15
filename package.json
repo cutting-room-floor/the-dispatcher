@@ -1,6 +1,6 @@
 {
   "name": "the-dispatcher",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "dispatcher singleton for multi-module flux apps",
   "main": "index.js",
   "scripts": {
